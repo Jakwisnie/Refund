@@ -1,0 +1,15 @@
+PL
+Aplikacja była testowana na inteliJIdea wszystko powinno działać 
+W celu uruchomienia powinno wystarczyć podmienić pliki main.java oraz pom.xml w nowo powstałym projekcie maven w środowisku inteliJIdea i następnie uruchomić plik main
+Interfejs graficzny/frontend został wykonany przy pomocy java swing wiec nie potrzeba uzywać przeglądarki!
+
+
+W celu ustalania limitów mógłbym zaproponować dodanie import export do panelu administratora ktory by ustawial wartosci limitow na te z otrzymanego pliku
+
+ENG
+App was tested on inteliJIdea everything should work
+In order to run it, it should be enough to replace the main.java and pom.xml files in the newly created maven project in the inteliJIdea environment and then run the main file
+GUI/frontend was made with java swing so no browser needed!
+
+
+In order to set limits, I could suggest adding import export to the admin panel, which would set the limit values to those from the received file
